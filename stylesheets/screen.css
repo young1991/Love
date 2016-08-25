@@ -140,7 +140,11 @@ header {
   position: relative;
   z-index: 2;
   margin: 0 auto;
+<<<<<<< HEAD
   max-width: 1200px;
+=======
+  max-width: 600px;
+>>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   top: 38px;
 }
 
@@ -188,7 +192,11 @@ header h1 {
 
 header h2 {
   background-color: #7c334f;
+<<<<<<< HEAD
   font: bold italic .85em/1.5 Georgia, Times, “Times New Roman�? serif;
+=======
+  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+>>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #e69b95;
   padding-bottom: 14px;
   margin-top: -3px;
@@ -235,7 +243,11 @@ section#downloads a:hover {
 }
 
 section#downloads a em {
+<<<<<<< HEAD
   font: bold italic 12px/1 Georgia, Times, “Times New Roman�? serif;
+=======
+  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
+>>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #83b7da;
   display: block;
 }
@@ -313,7 +325,11 @@ footer span.ribbon-inner p {
   background-color: #7c334f;
   margin: 0;
   color: #e69b95;
+<<<<<<< HEAD
   font: bold italic 12px/1 Georgia, Times, “Times New Roman�? serif;
+=======
+  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
+>>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   padding-bottom:4px;
 }
 
@@ -365,7 +381,11 @@ footer span.octocat {
 
 body {
   background: #ece4d8;
+<<<<<<< HEAD
   font: normal normal 15px/1.5 Georgia, Palatino,�?Palatino Linotype�? Times, “Times New Roman�? serif;
+=======
+  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+>>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #544943;
   -webkit-font-smoothing: antialiased;
 }
