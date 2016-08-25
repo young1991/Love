@@ -114,7 +114,7 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 670px;
+  width: 2000px;
   margin: 0 auto;
 }
 
@@ -193,9 +193,9 @@ header h1 {
 header h2 {
   background-color: #7c334f;
 <<<<<<< HEAD
-  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman�? serif;
+  font: bold italic .85em/1.5 Georgia, Times, â€œTimes New Romanâ€? serif;
 =======
-  font: bold italic .85em/1.5 Georgia, Times, “Times New Roman”, serif;
+  font: bold italic .85em/1.5 Georgia, Times, â€œTimes New Romanâ€, serif;
 >>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #e69b95;
   padding-bottom: 14px;
@@ -244,9 +244,9 @@ section#downloads a:hover {
 
 section#downloads a em {
 <<<<<<< HEAD
-  font: bold italic 12px/1 Georgia, Times, “Times New Roman�? serif;
+  font: bold italic 12px/1 Georgia, Times, â€œTimes New Romanâ€? serif;
 =======
-  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
+  font: bold italic 12px/1 Georgia, Times, â€œTimes New Romanâ€, serif;
 >>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #83b7da;
   display: block;
@@ -291,7 +291,7 @@ footer {
   background: transparent url(../images/footer-ramp.jpg) center -1px no-repeat;
   padding-top: 104px;
   margin: -94px auto 40px;
-  max-width: 560px;
+  max-width: 2000px;
   text-align: center;
 }
 
@@ -326,9 +326,9 @@ footer span.ribbon-inner p {
   margin: 0;
   color: #e69b95;
 <<<<<<< HEAD
-  font: bold italic 12px/1 Georgia, Times, “Times New Roman�? serif;
+  font: bold italic 12px/1 Georgia, Times, â€œTimes New Romanâ€? serif;
 =======
-  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
+  font: bold italic 12px/1 Georgia, Times, â€œTimes New Romanâ€, serif;
 >>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   padding-bottom:4px;
 }
@@ -382,9 +382,9 @@ footer span.octocat {
 body {
   background: #ece4d8;
 <<<<<<< HEAD
-  font: normal normal 15px/1.5 Georgia, Palatino,�?Palatino Linotype�? Times, “Times New Roman�? serif;
+  font: normal normal 15px/1.5 Georgia, Palatino,â€?Palatino Linotypeâ€? Times, â€œTimes New Romanâ€? serif;
 =======
-  font: normal normal 15px/1.5 Georgia, Palatino,” Palatino Linotype”, Times, “Times New Roman”, serif;
+  font: normal normal 15px/1.5 Georgia, Palatino,â€ Palatino Linotypeâ€, Times, â€œTimes New Romanâ€, serif;
 >>>>>>> 0ed75dbb774f24d4953b75f7bde9d70271ed7d18
   color: #544943;
   -webkit-font-smoothing: antialiased;
