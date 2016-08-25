@@ -114,7 +114,7 @@ header, footer, section {
 
 div.shell {
   display: block;
-  width: 2000px;
+  width: 1000px;
   margin: 0 auto;
 }
 
@@ -291,7 +291,7 @@ footer {
   background: transparent url(../images/footer-ramp.jpg) center -1px no-repeat;
   padding-top: 104px;
   margin: -94px auto 40px;
-  max-width: 2000px;
+  max-width: 1000px;
   text-align: center;
 }
 
